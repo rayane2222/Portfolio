@@ -58,7 +58,7 @@ const Layout = ({ children }) => {
                             </a>
                         ))}
                         <a
-                            href="/CV_Rayane_Djenadou.pdf"
+                            href="/Portfolio/CV_Rayane_Djenadou.pdf"
                             target="_blank"
                             className="px-4 py-2 rounded bg-neon-blue/10 border border-neon-blue/50 text-neon-blue hover:bg-neon-blue hover:text-black transition-all font-display font-bold text-xs tracking-widest uppercase"
                         >
@@ -89,7 +89,7 @@ const Layout = ({ children }) => {
                             </a>
                         ))}
                         <a
-                            href="/CV_Rayane_Djenadou.pdf"
+                            href="/Portfolio/CV_Rayane_Djenadou.pdf"
                             target="_blank"
                             className="text-center px-4 py-3 rounded bg-neon-blue/10 border border-neon-blue/50 text-neon-blue font-bold"
                         >

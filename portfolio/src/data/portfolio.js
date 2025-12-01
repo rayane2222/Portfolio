@@ -26,7 +26,7 @@ export const projects = [
         id: "p2pdf",
         type: "pdf",
         title: "Rapport du projet",
-        url: "/public/Rapport_Projet_Station_Meteo.pdf"
+        url: "/Portfolio/Rapport_Projet_Station_Meteo.pdf"
       }
     ]
   },
@@ -46,7 +46,7 @@ export const projects = [
         id: "p3pdf",
         type: "pdf",
         title: "Rapport du projet",
-        url: "/public/Rapport_Montre_Connectée.pdf"
+        url: "/Portfolio/Rapport_Montre_Connectée.pdf"
       }
     ]
   }
@@ -68,10 +68,10 @@ export const internships = [
       "Conception maquette : schéma I/O, placement capteurs/actionneurs et modélisation 3D (Fusion 360) "
     ],
     technologies: ["STM32", "nRF5340/nRF7002", "Zephyr RTOS", "BLE", "Wi-Fi", "MQTT", "HTTP", "ThingsBoard", "PostgreSQL", "Mosquitto", "Raspberry Pi", "TrustZone", "TF-M", "Fusion 360"],
-    image: "/public/cyber.jpg",
+    image: "/Portfolio/cyber.jpg",
     documents: [
-      { id: "i1d1", type: "pdf", title: "Rapport de stage", url: "/public/STAGE_M1.pdf" },
-      { id: "i1d4", type: "link", title: "Vidéo démonstrative", url: "/public/IMG_2947.mov" },
+      { id: "i1d1", type: "pdf", title: "Rapport de stage", url: "/Portfolio/STAGE_M1.pdf" },
+      { id: "i1d4", type: "link", title: "Vidéo démonstrative", url: "/Portfolio/IMG_2947.mov" },
     ]
   },
   {
@@ -87,9 +87,9 @@ export const internships = [
       "Conception et prototypage d'un nouveau module pour Mercedes.",
     ],
     technologies: ["LTSpice", "KiCad"],
-    image: "/luxor.jpg",
+    image: "/Portfolio/luxor.jpg",
     documents: [
-      { id: "i2d1", type: "pdf", title: "Rapport de stage", url: "/public/luxor_rapport.pdf" }
+      { id: "i2d1", type: "pdf", title: "Rapport de stage", url: "/Portfolio/luxor_rapport.pdf" }
     ]
   },
   {
@@ -105,7 +105,7 @@ export const internships = [
       "Dispositif de stabilisation pour une imprimante 3D",
     ],
     technologies: ["Arduino", "C/C++", "Marlin Firmware", "Capteurs"],
-    image: "/iconic3d.jpg"
+    image: "/Portfolio/iconic3d.jpg"
   }
 ];
 

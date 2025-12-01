@@ -46,7 +46,7 @@ const Hero = () => {
                         </a>
 
                         <a
-                            href="/CV_Rayane_Djenadou.pdf"
+                            href="/Portfolio/CV_Rayane_Djenadou.pdf"
                             target="_blank"
                             className="px-8 py-4 bg-transparent border border-slate-600 text-white font-medium rounded hover:border-neon-blue hover:text-neon-blue transition-all duration-300 flex items-center gap-2"
                         >
